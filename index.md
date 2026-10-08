@@ -397,7 +397,7 @@ Sometimes I revise the anchor links to different sections in the document. When 
 	* <a id="158cah" href="#love-placeholder">love placeholder</a>
 	* <a id="158dah" href="#wellbeing-placeholder">wellbeing placeholder</a>
 	* <a id="158da1c1h" href="#autonomic-harmony-placeholder">autonomic harmony placeholder</a>
-	* <a id="158dbh" href="#-ball-of-string-analogy-and-more-on-posture-and-fee"> ball of string analogy and more on posture and feedback loops (draft)</a>
+	* <a id="158dbh" href="#ball-of-string-analogy-and-more-on-posture-and-feed"> ball of string analogy and more on posture and feedback loops (draft)</a>
 	* <a id="158da1h" href="#far-reaches-of-meditation">far reaches of meditation (no particular order [yet])</a>
 		* <a id="158da1a1ah" href="#on-groundlessness-a-brief-note">on groundlessness, a brief note</a>
 		* <a id="158da1a1bh" href="#dreamlikeness">dreamlikeness</a>
@@ -11035,7 +11035,7 @@ See also: wellbeing placeholder
 [<a href="#158da1c1h">Go up to this section's line in the Full Table of Contents</a>][<a href="#qq">Go to the Partial Guided Tour (in the Quick Start Guide)</a>]
 
 
-# <span id="158db"></span><a id="ball-of-string-analogy-and-more-on-posture-and-feed" href="#ball-of-string-analogy-and-more-on-posture-and-feed">ball of string analogy and more on posture and feedback loops (draft):</a>
+# <span id="158db"></span><span id="-ball-of-string-analogy-and-more-on-posture-and-fee"></span><a id="ball-of-string-analogy-and-more-on-posture-and-feed" href="#ball-of-string-analogy-and-more-on-posture-and-feed">ball of string analogy and more on posture and feedback loops (draft):</a>
 
 There's an important analogy, involving a ball of string or twine, which is all tangled and knotted and balled up.
 
